@@ -4,5 +4,10 @@ rencana jadwal qori
 - belajar coding siang jam 2 sd 3
 - belajar coding malam dari jam 2 sd pagi 
 - belajar php
+^framwork php
+ - php laravel
 - belajar javascript
+^framwork javascript
+ - vue js
 - struktur data dasar
+- python
