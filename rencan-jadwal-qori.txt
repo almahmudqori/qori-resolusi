@@ -11,3 +11,4 @@ rencana jadwal qori
  - vue js
 - struktur data dasar
 - python
+
